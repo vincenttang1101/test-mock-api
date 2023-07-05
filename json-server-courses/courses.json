@@ -1,0 +1,12 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kiến Thức Nhập Môn IT"
+    },
+    {
+      "name": "Lập trình C++ nâng cao",
+      "id": 2
+    }
+  ]
+}
